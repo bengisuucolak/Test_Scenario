@@ -1,2 +1,2 @@
 # Test_Scenario
-Yazılım uygulama testi için proje
+Grup 7 - Senaryolar
