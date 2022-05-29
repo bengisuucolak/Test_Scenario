@@ -18,8 +18,8 @@ try:
     email = driver.find_element_by_id("email")
     password = driver.find_element_by_id("password")
 
-    email.send_keys("andromeda.2022.test_1998@gmail.com")
-    password.send_keys("andromeda123")
+    email.send_keys("******.test_1998@gmail.com")
+    password.send_keys("a**********123")
 except:
     print("The email or password is incorrect.!")
 
